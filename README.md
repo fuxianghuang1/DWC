@@ -3,18 +3,28 @@ The paper can be accessed at: https://arxiv.org/pdf/2312.06179.pdf
 
 
 If you find this code useful in your research then please cite
+
 '''
 @article{huang2023dynamic,
+
   title={Dynamic Weighted Combiner for Mixed-Modal Image Retrieval},
+  
   author={Huang, Fuxiang and Zhang, Lei and Fu, Xiaowei and Song, Suqi},
+  
   journal={arXiv preprint arXiv:2312.06179},
+  
   year={2023}
 }
 
+
 @inproceedings{huang2023dynamic,
+
   title={Dynamic Weighted Combiner for Mixed-Modal Image Retrieval},
+  
   author={Huang, Fuxiang and Zhang, Lei and Fu, Xiaowei and Song, Suqi},
+  
   booktitle={Association for the Advance of Artificial Intelligence (AAAI)},
+  
   year={2024}
 }
 '''
