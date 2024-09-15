@@ -4,7 +4,7 @@ The paper can be accessed at: https://arxiv.org/pdf/2312.06179.pdf
 
 If you find this code useful in your research then please cite
 
-'''
+```bibtex
 @article{huang2023dynamic,
 
   title={Dynamic Weighted Combiner for Mixed-Modal Image Retrieval},
