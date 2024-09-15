@@ -1,6 +1,5 @@
-# Dynamic Weighted Combiner for Mixed-Modal Image Retrieval - Accepted at AAAI2024
+# [AAAI2024] DWC: Dynamic Weighted Combiner for Mixed-Modal Image Retrieval 
 The paper can be accessed at: https://arxiv.org/pdf/2312.06179.pdf
-
 
 If you find this code useful in your research then please cite
 
@@ -33,6 +32,7 @@ If you find this code useful in your research then please cite
 ## Abstract
 
 Mixed-Modal Image Retrieval (MMIR) as a flexible search paradigm has attracted wide attention. However, previous approaches always achieve limited performance, due to two critical factors are seriously overlooked. 1) The contribution of image and text modalities is different, but incorrectly treated equally. 2) There exist inherent labeling noises in describing users' intentions with text in web datasets from diverse real-world scenarios, giving rise to overfitting. We propose a Dynamic Weighted Combiner (DWC) to tackle the above challenges, which includes three merits. First, we propose an Editable Modality De-equalizer (EMD) by taking into account the contribution disparity between modalities, containing two modality feature editors and an adaptive weighted combiner. Second, to alleviate labeling noises and data bias, we propose a dynamic soft-similarity label generator (SSG) to implicitly improve noisy supervision. Finally, to bridge modality gaps and facilitate similarity learning, we propose a CLIP-based mutual enhancement module alternately trained by a mixed-modality contrastive loss. Extensive experiments verify that our proposed model significantly outperforms state-of-the-art methods on real-world datasets.
+
 #### Requirements and Installation
  Python 3.7
 ```bash
